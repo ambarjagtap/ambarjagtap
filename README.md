@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ambarjagtap, a newbie in IT industry currently working on my coding skills. I'm proficient in c++ and looking forward to learn java also.  
+- 👋 Hi, I’m @ambarjagtap, a newbie in IT industry currently working on my coding skills. I'm proficient in JAVA & C++/C and have sound knowledge of DS n Algo.  
 - 👀 I’m interested in c++, java and javascript.
 - 🌱 I’m currently learning data structures and algorithm.
 - 📫 You can reach me through : Gmail  ambarjagtap123@gmail.com
